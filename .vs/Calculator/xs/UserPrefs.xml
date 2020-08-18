@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{838AD70E-8F88-4E05-9E17-47F3006624E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Algebraic.cs">
+    <Files>
+      <File FileName="Calculator/Program.cs" Line="9" Column="51" />
+      <File FileName="Calculator/Algebraic.cs" Line="16" Column="6" />
+      <File FileName="Calculator/Trigonometric.cs" />
+      <File FileName="Calculator/Arithmetic.cs" />
+      <File FileName="Calculator/Area.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="Algebraic.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

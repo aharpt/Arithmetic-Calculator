@@ -30,6 +30,8 @@ namespace Calculator
 
     // addition functions
 
+    // Stack Overflow how to output a number with two spaces after the decimal point https://stackoverflow.com/questions/1291483/leave-only-two-decimal-places-after-the-dot
+
     public static string add(int number1, int number2)
     {
       return String.Format("{0:0.00}", (number1 + number2));

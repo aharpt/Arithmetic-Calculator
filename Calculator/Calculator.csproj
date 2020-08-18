@@ -33,6 +33,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Arithmetic.cs" />
+    <Compile Include="Trigonometric.cs" />
+    <Compile Include="Area.cs" />
+    <Compile Include="Algebraic.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
