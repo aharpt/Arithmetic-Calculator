@@ -5,6 +5,7 @@ namespace Calculator
   {
 
     // find hypotenuse
+    // Stack Overflow how to output a number with two spaces after the decimal point https://stackoverflow.com/questions/1291483/leave-only-two-decimal-places-after-the-dot
 
     public static string findHypotenuse(int side1, int side2) {
       double hypotenuse = Math.Sqrt((side1 * side1) + (side2 * side2));
